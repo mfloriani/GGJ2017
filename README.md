@@ -1,5 +1,8 @@
-# GGJ2017
-Global Game Jam 2017
+# GGJ2017 - ZombieWave
+Game developed during the Global Game Jam 2017
+
+# Access to the page of the game
+https://globalgamejam.org/2017/games/zombiewave
 
 # Gameplay video
 
